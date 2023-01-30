@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm working on financial products and infrastructure with Python, nodejs, and React.<br><br>Creating courses, tutorials, and also available for consulting, mentoring, and public speaking opportunities.<br><br>Read more at [hackerculture.xyz](https://hackerculture.xyz)
+I'm working on financial products and infrastructure with Python, nodejs, and React.<br><br>Creating courses, tutorials, and also available for consulting, mentoring, and public speaking opportunities.<br><br>Read more at [hackerculture.com](https://hackerculture.com)
 
 ## 🙏 Support my open source projects
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/adriancruz) 
